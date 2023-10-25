@@ -1,3 +1,3 @@
-var fun = function calculateSum(a: number, b: number): number {
+var ahmadMohsen = function calculateSum(a: number, b: number): number {
     return a + b;
 }
