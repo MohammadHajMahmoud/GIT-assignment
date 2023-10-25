@@ -1,3 +1,3 @@
-var ahmadMohsen = function calculateSum(a: number, b: number): number {
+let newFunc = function calculateSum(a: number, b: number): number {
     return a + b;
 }
